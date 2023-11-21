@@ -19,4 +19,14 @@ We encourage all members to actively contribute to the organization. If you have
 4. Push to the branch 
 5. Open a Pull Request.
 
+## Supporting Us
+
+If you find our work valuable, consider showing your support by starring the repositories.
+Your support is crucial in building a thriving coding community within our class. Thank you for being a part of it!
+
+## Disclaimer
+
+This repository is strictly for learning purposes. The code and materials provided are intended for educational use within the context of our class. It is important to uphold academic integrity and use the code responsibly. Copying and distributing is  strictly discouraged. Please be mindful of ethical coding practices and respect the intellectual property of others.
+
+
 Happy coding!
