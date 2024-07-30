@@ -9,6 +9,7 @@ Explore our lab repositories:
 
 1. [OOPS Lab](https://github.com/csc-mec/OOPS_lab)
 2. [DS Lab](https://github.com/csc-mec/DS_LAB)
+3. [OS Lab](https://github.com/csc-mec/OS_Lab)
 
 ## Contributing
 We encourage all members to actively contribute to the organization. If you have a lab project, improvement, or suggestion, follow these steps:
