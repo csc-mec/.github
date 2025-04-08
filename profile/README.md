@@ -7,9 +7,12 @@ This organization serves as a central hub for our class's coding endeavors. Whet
 
 Explore our lab repositories:
 
-1. [OOPS Lab](https://github.com/csc-mec/OOPS_lab)
-2. [DS Lab](https://github.com/csc-mec/DS_LAB)
-3. [OS Lab](https://github.com/csc-mec/OS_Lab)
+1. [CSL201 - Data Structures Lab](https://github.com/csc-mec/DS_LAB)
+2. [CSL203 - Object Oriented Programing Lab](https://github.com/csc-mec/OOPS_lab)
+3. [CSL204 - Operating Systems Lab](https://github.com/csc-mec/OS_Lab)
+4. [CSL331 - System Software and Microprocessors Lab](https://github.com/csc-mec/SS_LAB)
+5. [CSL333 - Database Management Systems Lab](https://github.com/csc-mec/DBMS)
+6. [CSL332 - Networking Lab](https://github.com/csc-mec/NW_LAB)
 
 ## Contributing
 We encourage all members to actively contribute to the organization. If you have a lab project, improvement, or suggestion, follow these steps:
